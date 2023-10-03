@@ -38,7 +38,7 @@ const Home = () => {
         <FormField />
       </div>
 
-      <div className='mt-10'>
+      {/* <div className='mt-10'>
         {loading ? (
           <div className='flex justify-center items-center'>
             <Loader />
@@ -60,7 +60,7 @@ const Home = () => {
             </div>
           </>
         )}
-      </div>
+      </div> */}
     </section>
     
   )
